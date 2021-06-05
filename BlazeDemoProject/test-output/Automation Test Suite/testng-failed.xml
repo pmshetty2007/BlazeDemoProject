@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Test Suite]">
+  <test thread-count="5" name="Automation Test cases(failed)">
+    <classes>
+      <class name="com.bd.test.test.ConfirmationPageTest">
+        <methods>
+          <include name="verifyFinalAmountcollected"/>
+          <include name="QuitBrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.bd.test.test.ConfirmationPageTest -->
+    </classes>
+  </test> <!-- Automation Test cases(failed) -->
+</suite> <!-- Failed suite [Automation Test Suite] -->

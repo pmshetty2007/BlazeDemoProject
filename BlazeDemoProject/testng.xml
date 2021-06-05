@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Automation Test Suite">
+	
+	<test name="Automation Test cases">
+
+		<classes>
+			<class name="com.bd.test.test.WelcomePageTest"></class>
+			<class name="com.bd.test.test.ReservePageTest"></class>
+			<class name="com.bd.test.test.PurchasePageTest"></class>
+			<class name="com.bd.test.test.ConfirmationPageTest"></class>
+		</classes>
+	</test>
+</suite>
